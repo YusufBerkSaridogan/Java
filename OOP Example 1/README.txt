@@ -1,0 +1,1 @@
+Bu örnekte Canlıların beslenme özelliklerine göre diğer canlı ile beslenip beslenemediğini ekrana yazdıran bir kod yazılmıştır 
